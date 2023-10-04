@@ -1,7 +1,7 @@
 # INFORMATICA
 Unidad 1. Introducción
 
-Breve historia de la computadora
+Breve historia de la computadora JHSBXUCDSGCU
 La computadora digital como máquina simbólica de propósito general
 De las ciencias de la computación al cómputo en la nube
 Tareas y prácticas:
